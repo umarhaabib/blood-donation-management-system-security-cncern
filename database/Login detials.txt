@@ -1,0 +1,18 @@
+**Database Name: blood_donor**
+
+
+**Recommended PHP Version 7.4.12 and above
+
+Donor/User login details
+
+Username: talha
+Password: 12345
+
+you can register a new user through registration form
+
+
+**Admin Login details**
+
+Username: admin
+Password: admin
+
